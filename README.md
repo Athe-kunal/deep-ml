@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**1** solved · 1 problems · 0 labs · 0 math
+**2** solved · 2 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Mixture of Experts Load Balancing Loss](https://www.deep-ml.com/problems/389) | medium | 2026-11-06 | [solution](problems/0389-mixture-of-experts-load-balancing-loss) |
 | [Implement a Sparse Mixture of Experts Layer](https://www.deep-ml.com/problems/125) | hard | 2026-11-06 | [solution](problems/0125-implement-a-sparse-mixture-of-experts-layer) |
 
 ---
